@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="public/common.css">
   </head>
   <body>
+    <?php require("mysql.php");?>
     <div id="nav">
       <a href="http://localhost:8888">Document</a>
     </div>
